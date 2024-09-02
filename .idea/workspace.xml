@@ -5,11 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e8dec4-3cb3-450f-877b-33c2dc4c0c7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/app/(root)/my-banks/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/payment-transfer/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/(root)/transaction-history/page.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/BankCard.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/components/RightSidebar.tsx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MobileNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MobileNav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <updated>1724870992140</updated>
       <workItem from="1724870993223" duration="3883000" />
       <workItem from="1724947722590" duration="7258000" />
-      <workItem from="1725107848570" duration="1793000" />
+      <workItem from="1725107848570" duration="6211000" />
     </task>
     <servers />
   </component>
