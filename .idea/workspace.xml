@@ -5,17 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="72e8dec4-3cb3-450f-877b-33c2dc4c0c7e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/components/PlaidLink.tsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/actions/dwolla.actions.ts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/lib/plaid.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.env" beforeDir="false" afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(auth)/layout.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(auth)/layout.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/(root)/page.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/app/(root)/page.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/global-error.tsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/sentry-example-page/page.tsx" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/components/AuthForm.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/AuthForm.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/MobileNav.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/MobileNav.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/RightSidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/RightSidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/Sidebar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/Sidebar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/components/TotalBalanceBox.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/next.config.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/next.config.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/actions/user.actions.ts" beforeDir="false" afterPath="$PROJECT_DIR$/lib/actions/user.actions.ts" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/types/index.d.ts" beforeDir="false" afterPath="$PROJECT_DIR$/types/index.d.ts" afterDir="false" />
@@ -93,7 +91,8 @@
       <workItem from="1725551252345" duration="771000" />
       <workItem from="1725554090092" duration="1428000" />
       <workItem from="1725559640799" duration="880000" />
-      <workItem from="1725560581583" duration="2525000" />
+      <workItem from="1725560581583" duration="2945000" />
+      <workItem from="1725711343022" duration="8845000" />
     </task>
     <servers />
   </component>
